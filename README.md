@@ -3,7 +3,7 @@ Locus
 
 ## About
 
-A mobile application for photographers to share their photos and camera settings along with the geolocation of that shot. This project was built with React Native and bootstrapped with expo
+Locus is a photo sharing app for photography enthusiasts to get inspiration for new spots. And subjects for photos. Users upload images from their phone library or take a photo. The app accessed the image data such as GPS and camera settings, and an image recognition via machine learning API will automatically generate tags/categories.
 
 ## Demo
 
