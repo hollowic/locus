@@ -8,6 +8,7 @@ A mobile application for photographers to share their photos and camera settings
 ## Demo
 
 - https://www.youtube.com/watch?v=n7ccPFVDHcU
+- https://youtu.be/a2kW34n9_x0
 
 ## Features
 
