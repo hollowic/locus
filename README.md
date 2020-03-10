@@ -7,7 +7,7 @@ Locus is a photo sharing app for photography enthusiasts to get inspiration for 
 
 ## Demo
 
-- https://www.youtube.com/watch?v=n7ccPFVDHcU
+- https://youtu.be/n7ccPFVDHcU
 - https://youtu.be/a2kW34n9_x0
 
 ## Features
